@@ -19,4 +19,9 @@
     * Basic knowledge of OOP
     * Familiar with Git
 
+5. Code examples:
+    for (i = 0; i<arr.length; i++) {
+        if (arr[i]>arr[i+1]) count[j]++;
+    }
 
+6.
