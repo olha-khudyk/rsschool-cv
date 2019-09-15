@@ -1,0 +1,34 @@
+1. **Olha Khudyk**
+
+2. Contact Information:
+    * Tel: +380992729507
+    * E-Mail: o.khudyk91@gmail.com
+    * [Github](https://olha-khudyk.github.io/rsschool-cv/cv)
+
+3. About Me:
+    * Sociable
+    * Flexible
+    * Self-confident
+    * Ready to learn
+    * Able to work in a team
+    * Well-organized
+    * Detail-oriented
+
+4. Skills:
+    * Good knowledge of HTML, CSS and JS
+    * Basic knowledge of OOP
+    * Familiar with Git
+
+5. Code examples:
+    for (i = 0; i<arr.length; i++) {
+        if (arr[i]>arr[i+1]) count[j]++;
+    }
+
+6. Experience:
+    * Assistant of Department in Chernivti National Univercity
+
+7. Eduction:
+    * Chernivtsi National Univarcity
+
+8. English:
+    * Upper-Intermediate+
