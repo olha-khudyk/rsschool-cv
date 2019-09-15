@@ -24,4 +24,11 @@
         if (arr[i]>arr[i+1]) count[j]++;
     }
 
-6.
+6. Experience:
+    * Assistant of Department in Chernivti National Univercity
+
+7. Eduction:
+    * Chernivtsi National Univarcity
+
+8. English:
+    * Upper-Intermediate+
