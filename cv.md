@@ -3,7 +3,7 @@
 2. Contact Information:
     * Tel: +380992729507
     * E-Mail: o.khudyk91@gmail.com
-    * Github
+    * [Github](https://olha-khudyk.github.io/rsschool-cv/cv)
 
 3. About Me:
     * Sociable
